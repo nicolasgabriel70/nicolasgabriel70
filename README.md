@@ -31,32 +31,22 @@ Tenho interesse em criar interfaces modernas, sistemas úteis e automações que
 - Noções básicas de Power BI e Python
 
 ---
-
 ## Projetos
 
-### Assistente pessoal automatizada
+### Automações com n8n e IA
 
-Desenvolvi uma assistente pessoal com n8n integrada a dados de e-mails, tarefas e reuniões, utilizando IA para organizar informações e responder de forma inteligente com base no contexto do usuário.
+Repositório com projetos de automação usando n8n, agentes de IA, Gmail, Google Sheets, Google Calendar, Telegram, Webhooks e integrações com ferramentas externas.
 
-### Dashboard de secretária executiva
+Nele estão documentados fluxos como:
 
-Criei uma aplicação web SaaS com foco em produtividade, incluindo painel executivo, organização de e-mails, tarefas, compromissos, documentos, gráficos, notificações e assistente IA integrada.
+- Assistente pessoal automatizada
+- Agente de resposta a e-mails
+- Agente financeiro com subagentes
+- Agente de reembolso
+- Automação de notas fiscais
+- Fluxos auxiliares para dashboard, reuniões, e-mails e tarefas
 
-### Agente de resposta a e-mails
-
-Automação simples com n8n que lê e-mails recebidos, interpreta dúvidas do usuário com IA e responde automaticamente de acordo com o contexto.
-
-### Agente financeiro com subagentes
-
-Criei um fluxo com agente financeiro e subagentes especializados para responder dúvidas financeiras, analisar situações do usuário e marcar reuniões quando necessário.
-
-### Agente de reembolso
-
-Desenvolvi uma automação que analisa solicitações de reembolso, verifica o perfil do cliente e decide o encaminhamento correto, diferenciando clientes bons, comuns, ruins ou casos que exigem avaliação da equipe.
-
-### Automação de notas fiscais
-
-Projeto mais completo em n8n para análise de notas fiscais, separando documentos entre uso corporativo e pessoal, organizando arquivos em pastas e registrando informações em planilhas.
+🔗 [Ver repositório](https://github.com/nicolasgabriel70/automacoes-n8n-ia)
 
 ---
 ## Tech Stack
