@@ -1,41 +1,53 @@
+
 # Nicolas Gabriel
 
-Estudante de Análise e Desenvolvimento de Sistemas, focado em Front-end, automações com n8n e soluções com Inteligência Artificial.
+Estudante de **Engenharia de Software na Universidade Positivo (UP)** e de **Análise e Desenvolvimento de Sistemas na UniCesumar**, com foco atual em **Java, Programação Orientada a Objetos e desenvolvimento de software**.
 
 ---
 
 ## Sobre mim
 
-Estou construindo minha base como desenvolvedor, com foco em desenvolvimento Front-end e automações inteligentes.
+Estou construindo minha trajetória como desenvolvedor, aprofundando meus conhecimentos em **Java**, lógica de programação, orientação a objetos e boas práticas de organização de código.
 
-Atualmente estudo tecnologias como HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, MySQL, MongoDB, Docker, APIs e Prisma. Já tenho base prática em HTML, CSS, Git e GitHub, e sigo evoluindo nas demais tecnologias por meio de cursos, faculdade e projetos próprios.
+Atualmente, aplico esses conhecimentos em projetos próprios. Um exemplo é o **Identificador de Cobranças**, uma aplicação Java que lê transações de um arquivo CSV e sinaliza possíveis cobranças duplicadas por meio da comparação de datas, estabelecimentos e valores.
 
-Também desenvolvo automações com n8n, criando fluxos que integram ferramentas como Gmail, Google Sheets, Google Calendar, Telegram, Webhooks e modelos de IA, principalmente com foco em produtividade, organização de dados e atendimento automatizado.
+Também já desenvolvi projetos com **JavaScript, TypeScript, APIs REST, Webhooks e integrações entre sistemas**, incluindo automações com n8n e ferramentas de IA. Essas experiências continuam fazendo parte do meu portfólio, embora não sejam mais meu foco principal de estudo.
 
-Tenho interesse em criar interfaces modernas, sistemas úteis e automações que resolvam problemas reais, unindo desenvolvimento web, inteligência artificial e integração entre plataformas.
+Busco uma oportunidade de estágio em **Tecnologia da Informação, especialmente em desenvolvimento de software**, para aprender com uma equipe e continuar evoluindo na prática.
 
 ---
 
 ## O que eu trabalho e estudo
 
-- Desenvolvimento Front-end com HTML, CSS e JavaScript
+- Desenvolvimento em Java e Programação Orientada a Objetos (POO)
+- Lógica de programação, estruturas de repetição e comparação de dados
+- Criação e organização de classes, métodos e objetos
+- Manipulação de arquivos CSV e dados com Java
+- Uso de `ArrayList`, `LocalDate` e `BigDecimal` em projetos práticos
 - Versionamento de código com Git e GitHub
-- Criação de interfaces responsivas e organizadas
-- Estudos em React, Next.js, TypeScript e Tailwind CSS
-- Automações com n8n
-- Integração com APIs, Webhooks e ferramentas externas
-- Criação de agentes de IA com Google Gemini
-- Integrações com Gmail, Google Sheets, Google Calendar e Telegram
-- Organização e tratamento de dados em fluxos automatizados
-- Estudos em banco de dados com MySQL, MongoDB e Prisma
-- Noções básicas de Power BI e Python
+- Estudo de estruturas de dados, algoritmos e fundamentos de testes
+- Experiência anterior com JavaScript, TypeScript, APIs REST e Webhooks
+- Projetos anteriores de integração de sistemas e automações com n8n e IA
 
 ---
+
 ## Projetos
+
+### Identificador de Cobranças — Java
+
+Aplicação de terminal desenvolvida em Java para **identificar possíveis cobranças duplicadas** em um extrato CSV fictício.
+
+O programa lê as transações, transforma os dados em objetos e compara **estabelecimento, data e valor**, exibindo alertas para registros com informações iguais. A aplicação também informa quando nenhuma possível duplicidade é encontrada.
+
+Tecnologias e conceitos utilizados: **Java, POO, `ArrayList`, `BigDecimal`, `LocalDate` e leitura de CSV**.
+
+> Projeto educacional: registros iguais são sinalizados para conferência; isso não confirma uma cobrança indevida.
+
+🔗 [Ver repositório](https://github.com/nicolasgabriel70/Identificador-de-cobrancas-java)
 
 ### Automações com n8n e IA
 
-Repositório com projetos de automação usando n8n, agentes de IA, Gmail, Google Sheets, Google Calendar, Telegram, Webhooks e integrações com ferramentas externas.
+Repositório de projetos anteriores de automação usando n8n, agentes de IA, Gmail, Google Sheets, Google Calendar, Telegram, Webhooks e integrações com ferramentas externas.
 
 Nele estão documentados fluxos como:
 
@@ -49,15 +61,18 @@ Nele estão documentados fluxos como:
 🔗 [Ver repositório](https://github.com/nicolasgabriel70/automacoes-n8n-ia)
 
 ---
+
 ## Tech Stack
 
 ### Base atual
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,git,github" />
 </p>
 
 ### Automações e ferramentas
+
+*Ferramentas utilizadas em projetos anteriores:*
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -71,22 +86,23 @@ Nele estão documentados fluxos como:
 ### Estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mysql,mongodb,docker,prisma" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
+Aprofundando meus conhecimentos em **Java, orientação a objetos, estruturas de dados, algoritmos e testes de software**.
 
 ---
 
 ## Experiência
 
-Atualmente estou desenvolvendo projetos próprios com foco em Front-end, automações e inteligência artificial.
+Atualmente desenvolvo projetos próprios com foco em **Java e desenvolvimento de software**, praticando modelagem de classes, leitura de arquivos, manipulação de dados e lógica de comparação.
 
-Minha experiência prática envolve criação de fluxos no n8n, integração entre ferramentas, uso de agentes de IA, automações com e-mail, planilhas, calendário, Telegram e organização de dados.
+Também possuo experiência com projetos de automação utilizando **n8n, integrações entre ferramentas, Webhooks e agentes de IA**, além de conhecimentos adquiridos em projetos com JavaScript, TypeScript e APIs REST.
 
-No desenvolvimento web, estou evoluindo minha base em HTML, CSS, Git e GitHub, enquanto estudo tecnologias modernas como JavaScript, React, TypeScript, Next.js e Tailwind CSS para criar interfaces mais completas, responsivas e profissionais.
+Na minha experiência profissional como **assistente administrativo na CNH Industrial**, atuei com organização e conferência de informações, planilhas, sistemas internos e acompanhamento de demandas. Essa vivência contribuiu para desenvolver atenção aos detalhes, organização e visão de processos.
 
 ---
 
 ## Direção
 
-Meu objetivo é evoluir como desenvolvedor Front-end e criador de automações inteligentes, construindo aplicações modernas, fluxos automatizados e soluções reais que conectam sistemas, organizam informações e aumentam produtividade.
+Meu objetivo é **evoluir como desenvolvedor de software**, com foco no aprendizado e na aplicação prática de **Java**, construindo projetos que resolvam problemas reais e ampliando meus conhecimentos para conquistar uma oportunidade de estágio em tecnologia.
