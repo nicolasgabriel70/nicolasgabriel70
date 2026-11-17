@@ -155,8 +155,6 @@ Conteúdos abordados no curso:
 - Ciclo de vida do desenvolvimento de software (SDLC)
 - Ambiente de desenvolvimento e utilização de IDEs
 
-🔗 [Ver curso na Coursera](https://www.coursera.org/learn/introduction-to-software-development)
-
 🔗 [Ver programa completo da Amazon](https://www.coursera.org/professional-certificates/amazon-junior-software-developer)
 
 ---
